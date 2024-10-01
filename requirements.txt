@@ -1,0 +1,9 @@
+altgraph==0.17.4
+asgiref==3.8.1
+Django==5.1
+packaging==24.1
+paho-mqtt==2.1.0
+pyarmor==8.5.11
+pyarmor.cli.core==6.5.3
+pyinstaller-hooks-contrib==2024.8
+sqlparse==0.5.1
